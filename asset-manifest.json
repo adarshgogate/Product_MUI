@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/product/static/css/main.29e51f26.css",
+    "main.js": "/product/static/js/main.519b10f8.js",
+    "static/js/453.1d8c477c.chunk.js": "/product/static/js/453.1d8c477c.chunk.js",
+    "static/media/Smartwatch.webp": "/product/static/media/Smartwatch.f8b4d908319f446bae68.webp",
+    "static/media/Bag.webp": "/product/static/media/Bag.65eaf84abbe3dae23bd6.webp",
+    "static/media/Mobile.webp": "/product/static/media/Mobile.707127abfb7c90281759.webp",
+    "static/media/Laptop.webp": "/product/static/media/Laptop.6435aafb56056f836cc2.webp",
+    "static/media/logo.svg": "/product/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/product/index.html",
+    "main.29e51f26.css.map": "/product/static/css/main.29e51f26.css.map",
+    "main.519b10f8.js.map": "/product/static/js/main.519b10f8.js.map",
+    "453.1d8c477c.chunk.js.map": "/product/static/js/453.1d8c477c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e51f26.css",
+    "static/js/main.519b10f8.js"
+  ]
+}
